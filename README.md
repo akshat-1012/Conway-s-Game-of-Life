@@ -11,11 +11,11 @@ Once you run the program, You will be prompted to enter a grid height and width.
 Alive cells will be yellow in color. Dead cells will be grey in color.
 
 Controls:
-Clicking down on a dead cell will make it alive and vice-versa 
-The R key is used to reset the grid (i.e, make all the cells dead)
-The UP ARROW key is used to generate a random grid with alive and dead cells
-The RIGHT ARROW key is used to move ahead in the simulation by 1 step 
-The SPACE key is used to run the simulation at a fixed speed
-The D key is used to make the simulation speed up
-The S key is used to make the simulation slow down (It will not go below its initial predefined speed)
+* Clicking down on a dead cell will make it alive and vice-versa 
+* The R key is used to reset the grid (i.e, make all the cells dead)
+* The UP ARROW key is used to generate a random grid with alive and dead cells
+* The RIGHT ARROW key is used to move ahead in the simulation by 1 step 
+* The SPACE key is used to run the simulation at a fixed speed
+* The D key is used to make the simulation speed up
+* The S key is used to make the simulation slow down (It will not go below its initial predefined speed)
 
