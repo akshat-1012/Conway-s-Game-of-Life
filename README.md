@@ -17,5 +17,5 @@ The UP ARROW key is used to generate a random grid with alive and dead cells
 The RIGHT ARROW key is used to move ahead in the simulation by 1 step 
 The SPACE key is used to run the simulation at a fixed speed
 The D key is used to make the simulation speed up
-The S key is used to make the simulation slow down (It will not go below it's initial predefined speed)
+The S key is used to make the simulation slow down (It will not go below its initial predefined speed)
 
