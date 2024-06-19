@@ -8,7 +8,7 @@ Rules of the game:
 5. Any dead cell with exactly three live neighbors becomes a live cell (reproduction).
 
 Once you run the program, You will be prompted to enter a grid height and width.
-Alive cells will be yellow in colour. Dead cells will be grey in colour.
+Alive cells will be yellow in color. Dead cells will be grey in color.
 
 Controls:
 Clicking down on a dead cell will make it alive and vice-versa 
